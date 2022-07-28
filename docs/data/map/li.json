@@ -1,0 +1,29 @@
+{
+	"sn": "user",
+	"ver": 20210320222758,
+	"map": [{
+		"tit": "啾噗",
+		"url": "/pages/mags/index"
+	}, {
+		"tit": "工具",
+		"url": "/pages/tools/index"
+	}, {
+		"tit": "聊吧",
+		"url": "/pages/love/index"
+	}, {
+		"tit": "推荐",
+		"url": "/pages/others/index"
+	}, {
+		"tit": "H5",
+		"url": "/pages/h5/index"
+	}, {
+		"tit": "设置",
+		"url": "/pages/setting/index"
+	}, {
+		"tit": "导航",
+		"url": "/pages/map/index"
+	}, {
+		"tit": "我的",
+		"url": "/pages/user/index"
+	}]
+}
